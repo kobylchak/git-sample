@@ -1,3 +1,5 @@
 Hello
 I have my changes to rebase - sl.
+Add some change rebaseFile.txt from maser
 
+conflict rebase -sl decided.
